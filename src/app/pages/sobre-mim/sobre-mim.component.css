@@ -1,0 +1,28 @@
+.text3 {
+	padding-top:20px;
+	padding-left:100px;
+	padding-right:100px;
+	padding-bottom:50px;
+ 	font-family: 'Garamond';
+	font-size: 30px;
+}
+
+.negri{
+
+	font-weight: bold;
+	font-size: 50px;
+}
+
+.centralizar {
+
+    text-align: center;
+	margin: auto;
+}
+
+h1 {
+    font-size: 28px;
+    -webkit-transition: opacity .4s;
+    transition: opacity .4s;
+    text-transform: uppercase;
+    color:#000;
+  }

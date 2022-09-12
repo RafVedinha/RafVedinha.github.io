@@ -1,0 +1,19 @@
+.centralizar {
+
+    text-align: center
+
+}
+
+.text3 {
+	padding-top:20px;
+	padding-left:100px;
+	padding-right:100px;
+	padding-bottom:50px;
+  font-family: 'Comic Sans'
+}
+
+img {
+
+	height: 225px;
+	position: inherit;
+	}
